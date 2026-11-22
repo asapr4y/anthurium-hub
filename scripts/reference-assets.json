@@ -1,0 +1,122 @@
+[
+  {
+    "sourceKey": "2.2.0",
+    "y": 274.9004750604157,
+    "x": 96.6456751854065,
+    "kind": "image",
+    "assetId": "MAGz-pvwGAM",
+    "originalPath": "_assets/media/95c428eb2c14991fbce694dcda0120fe.png",
+    "width": 956,
+    "height": 452
+  },
+  {
+    "sourceKey": "2.2.1",
+    "y": 467.93461332439534,
+    "x": 445.23843429747154,
+    "kind": "image",
+    "assetId": "MAGz-tAUiFc",
+    "originalPath": "_assets/media/e275120643df842a701f9b1137a51744.png",
+    "width": 463,
+    "height": 255
+  },
+  {
+    "sourceKey": "2.2.2",
+    "y": 467.34395881474967,
+    "x": 673.5550648839753,
+    "kind": "image",
+    "assetId": "MAGz-sOjbrs",
+    "originalPath": "_assets/media/d314bd64daf58b8569bcd5876a8b43f4.png",
+    "width": 356,
+    "height": 257
+  },
+  {
+    "sourceKey": "2.2.3",
+    "y": 467.93461332439534,
+    "x": 930.6529781242791,
+    "kind": "image",
+    "assetId": "MAGz-rO2p4k",
+    "originalPath": "_assets/media/0e773d15d6ec4c8565089f3e78a12977.png",
+    "width": 352,
+    "height": 286
+  },
+  {
+    "sourceKey": "2.8.0",
+    "y": 353.34035257128096,
+    "x": 498.4669406260584,
+    "kind": "image",
+    "assetId": "MAG0ENMcyDk",
+    "originalPath": "_assets/media/47ff1004d3604aa0650bc01eeba27baf.png",
+    "width": 794,
+    "height": 73
+  },
+  {
+    "sourceKey": "3.2.0",
+    "y": 384.00000000000006,
+    "x": 298.79180717375925,
+    "kind": "image",
+    "assetId": "MAG0Ea7VzEs",
+    "originalPath": "_assets/media/94b72110f4061fc89e0a1a31ed48e2e7.png",
+    "width": 419,
+    "height": 357
+  },
+  {
+    "sourceKey": "3.2.1",
+    "y": 385.2094779791545,
+    "x": 686.8142349242191,
+    "kind": "image",
+    "assetId": "MAG0EZJ8RFE",
+    "originalPath": "_assets/media/598a080af03cc33dda3ceea24d267672.png",
+    "width": 397,
+    "height": 346
+  },
+  {
+    "sourceKey": "3.6.0",
+    "y": 243.56511346381075,
+    "x": 99.5239022682955,
+    "kind": "image",
+    "assetId": "MAG0En0fARc",
+    "originalPath": "_assets/media/96896d585f7d39f957de75b9342480a9.png",
+    "width": 1590,
+    "height": 216
+  },
+  {
+    "sourceKey": "3.6.2",
+    "y": 491.06173203167157,
+    "x": 99.5239022682955,
+    "kind": "image",
+    "assetId": "MAG0Egq5yZM",
+    "originalPath": "_assets/media/ed19c26db2ffd94d32c188291052cddd.png",
+    "width": 1587,
+    "height": 310
+  },
+  {
+    "sourceKey": "3.7.1",
+    "y": 132.29735322909764,
+    "x": 75.00279790743593,
+    "kind": "image",
+    "assetId": "MAG0EqTfQ-k",
+    "originalPath": "_assets/media/83d1e495566cbbbcf36075c6c5a86e34.png",
+    "width": 1579,
+    "height": 493
+  },
+  {
+    "sourceKey": "3.7.3",
+    "y": 453.7032978262061,
+    "x": 76.80000000000001,
+    "kind": "image",
+    "assetId": "MAG0EltWEQ4",
+    "originalPath": "_assets/media/d13811eb4518f71c539abab9e1c78b2c.png",
+    "width": 1566,
+    "height": 551
+  },
+  {
+    "sourceKey": "3.8.0",
+    "y": 133.2951346590869,
+    "x": 76.80000000000001,
+    "kind": "image",
+    "assetId": "MAG0EgFyuPU",
+    "originalPath": "_assets/media/05aa0cf515fb813785683004fe3dcd41.png",
+    "width": 1585,
+    "height": 385
+  }
+]

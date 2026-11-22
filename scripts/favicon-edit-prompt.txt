@@ -1,0 +1,6 @@
+Mode: built-in image_gen edit; transparent_background: true.
+Source: public/assets/anthurium-unit-transparent.png
+Output: public/assets/anthurium-crest-red.png
+Browser exports: public/assets/favicon-32.png, favicon-64.png, apple-touch-icon.png
+
+Use case: precise-object-edit. Create a website favicon from the provided Anthurium Unit gold logo. Keep only the existing gold emblem: the three stars, surrounding laurels, shield, anthurium and ascending graph. Preserve that exact design and gold appearance. Remove ALL words, lettering and horizontal rules below the crest, including ANTHURIUM UNIT, JACKFRUIT NBO, Since 2018. Center and enlarge the complete gold emblem within a solid deep red circular backdrop, color #a51e30. The circle should almost fill a square canvas, with a small transparent outer margin. Crest must fit comfortably inside the circle without clipping. Clean edges suitable for a small browser icon. No black, no extra ornaments, no new typography. Genuine transparent pixels outside the red circle.

@@ -1,0 +1,10 @@
+Built-in image_gen edit; transparent_background: true.
+Source: public/assets/anthurium-unit.png
+Output: public/assets/anthurium-unit-transparent.png
+
+Use case: background-extraction.
+Asset type: transparent PNG identity asset for Anthurium Unit website.
+Input image is the edit target, not merely a style reference.
+Remove the entire black/brown smoky background and the diffuse gold atmospheric glow. Extract only the existing gold crest, its three stars, laurel branches, anthurium flower, shield and ascending graph, plus all existing lettering and decorative rules.
+Text exactly as in original: "ANTHURIUM UNIT", "JACKFRUIT NBO", "Since 2018".
+Keep the original logo design, proportions, gold material, fine details, typography and relative arrangement unchanged. Do not invent or redesign anything. All negative space, including spaces inside the crest and letters, must be genuine alpha transparency, not filled black or brown. Clean crisp edges without a glow halo. Tight square composition with a small safe transparent margin around the complete mark and all lettering. No added objects, shadows, backdrop or checkerboard.

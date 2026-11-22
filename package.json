@@ -1,0 +1,21 @@
+{
+  "name": "anthurium-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Anthurium Unit resource hub · Jackfruit NBO",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs --production",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/data.test.mjs",
+    "test:e2e": "playwright test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.65.1"
+  }
+}
