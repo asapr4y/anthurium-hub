@@ -21,6 +21,19 @@ npm start
 
 Publish the contents of `dist/` on any static host. No backend, API keys, or environment variables are needed. The site uses hash-based navigation so routes work on basic static hosting. The bundled preview server binds to localhost.
 
+## Deploy to Vercel
+
+The repository includes `vercel.json` to build and publish this static site explicitly:
+
+- Root Directory: repository root (the directory containing `package.json` and `vercel.json`).
+- Framework Preset: Other.
+- Build Command: `npm run build`.
+- Output Directory: `dist`.
+
+Commit and push the configuration, then deploy that commit. For an existing Vercel project, confirm its Root Directory points to this repository root. The build command and output directory are supplied by `vercel.json`; no environment variables or running Node server are required in production.
+
+A successful build should publish `dist/index.html`, `dist/src/`, and `dist/assets/`. Publishing `public/` instead leaves the home page missing because that directory contains only assets. This can cause Vercel's `404 NOT_FOUND` even when a deployment appears successful. The site's `#` routes are handled in the browser and require no catch-all rewrite.
+
 ## Add approved resource links
 
 Edit **`src/resource-links.js`**. Each key identifies one external destination, for example:
